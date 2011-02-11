@@ -9,5 +9,9 @@ public class DummyApp extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        
+        /*
+         * Adding a comment here to see what happens with the diff...
+         */
     }
 }
